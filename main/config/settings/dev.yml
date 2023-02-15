@@ -131,3 +131,8 @@ versionDate: 'Latest Release Version: 5.2.7'
 # Root user's email address
 # Note: The value set to rootUserEmail will be used ad the username for Cognito native user pool's default user
 rootUserEmail: smatheson@dius.com.au
+
+# Optional custom domain name; if empty, use the CloudFront domain name
+domainName: 'testworkbench.com'
+certificateArn: 'arn:aws:acm:us-east-1:773592622512:certificate/53f203c7-6dab-45bd-b2e7-584211aa6415'
+hostedZoneId: 'Z06743583N2SYZHFWHY3S'
