@@ -133,6 +133,7 @@ versionDate: 'Latest Release Version: 5.2.7'
 rootUserEmail: smatheson@dius.com.au
 
 # Optional custom domain name; if empty, use the CloudFront domain name
-domainName: 'testworkbench.com'
+domainName: 'www.testworkbench.com'
+domainname: 'www.testworkbench.com'
 certificateArn: 'arn:aws:acm:us-east-1:773592622512:certificate/53f203c7-6dab-45bd-b2e7-584211aa6415'
 hostedZoneId: 'Z06743583N2SYZHFWHY3S'
